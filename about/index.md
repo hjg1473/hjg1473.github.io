@@ -8,17 +8,8 @@ comments: false
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Introduction
+Hello, I'm Jang-Geon Ham. I graduated from Hongseong High School. Now, i'm a sophomore majoring in Software Engineering at Sungkyunkwan University. 
 
 ## Preview
 
