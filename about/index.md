@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><img src="./about/20231122.jpg" width="300px" height="500px" title="me"/></center>
 
 ## Introduction
 Hello, I'm Jang-Geon Ham. I graduated from Hongseong High School. Now, i'm a sophomore majoring in Software Engineering at Sungkyunkwan University. 
