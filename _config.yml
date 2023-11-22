@@ -1,32 +1,32 @@
 # Site
-title:              Personal Homepage
-bio:                'Hello, Welcome to my Blog!'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Personal Homepage # 제목
+bio:                'Hello, Welcome to my Blog!'  # 사이트 바이오
+description:        "Moon is a minimal, one column jekyll theme for your blog." # 사이트 설명
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/logo.png' # 로고 이미지 경로
+background:         'assets/img/placeholder-big.jpg' # 배경 이미지 경로
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             en_US # 로케일 설정 (언어 및 지역)
 url:                https://hjg1473.github.io/
 
 # Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
+permalink:          /:title/ # 퍼머링크 구조 설정
+markdown:           kramdown # Markdown 엔진 설정
+highlighter:        rouge # Syntax Highlighter 설정
 kramdown:
   auto_ids:         true
-  footnote_nr:      1
+  footnote_nr:      1 
   entity_output:    as_char
   toc_levels:       1..6
   enable_coderay:   false
 mathjax:            true
 sass:
-  sass_dir:         _sass
-  style:            compressed
+  sass_dir:         _sass # Sass 디렉토리 설정
+  style:            compressed # Sass 컴파일 스타일 설정
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   taylantatli # Disqus 단축 이름 설정
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,10 +37,10 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              hjg1217@g.skku.edu
+email:              hjg1217@g.skku.edu # 이메일 주소
 #twitter:            username
 #facebook:           username
-github-url:         hjg1473
+github-url:         hjg1473 # GitHub 사용자명
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -70,7 +70,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://github.com # Jekyll 멘션 기능 설정 시 기본 URL 설정
 
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+# Exclude list 
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile] # 배제할 파일 및 디렉토리 목록
