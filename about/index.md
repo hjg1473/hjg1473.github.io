@@ -12,8 +12,7 @@ comments: false
 Hello, I'm Jang-Geon Ham. I graduated from Hongseong High School. Now, i'm a sophomore majoring in Software Engineering at Sungkyunkwan University. 
 
 ## Skill
- - Python, JavaScript, C++\
- - Git, Docker, Visual Studio Code (Beginner)
+ - Python, JavaScript, C++, Git, Docker, Visual Studio Code (Beginner)
 
 ## Education
  - **SKKU**.South Korea\
